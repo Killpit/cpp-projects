@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/atatekeli/cpp-projects/ascii-cipher",
-      "program": "/Users/atatekeli/cpp-projects/ascii-cipher/build/Debug/outDebug"
+      "cwd": "/Users/atatekeli/cpp-projects/triangle-type-determiner",
+      "program": "/Users/atatekeli/cpp-projects/triangle-type-determiner/build/Debug/outDebug"
     }
   ]
 }
