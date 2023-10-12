@@ -12,4 +12,8 @@ C++ projects for learning
 
 4- bmn-calculator
 
-5- guessing-game (ongoing)
+5- guessing-game 
+
+6- calculator
+
+7- number-of-days

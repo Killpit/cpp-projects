@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/atatekeli/cpp-projects/triangle-type-determiner",
-      "program": "/Users/atatekeli/cpp-projects/triangle-type-determiner/build/Debug/outDebug"
+      "cwd": "/Users/atatekeli/cpp-projects/guessing-game",
+      "program": "/Users/atatekeli/cpp-projects/guessing-game/build/Debug/outDebug"
     }
   ]
 }
