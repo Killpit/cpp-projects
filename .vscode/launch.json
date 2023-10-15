@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/atatekeli/cpp-projects/guessing-game",
-      "program": "/Users/atatekeli/cpp-projects/guessing-game/build/Debug/outDebug"
+      "cwd": "/Users/atatekeli/cpp-projects/digit-reverser",
+      "program": "/Users/atatekeli/cpp-projects/digit-reverser/build/Debug/outDebug"
     }
   ]
 }

@@ -17,3 +17,11 @@ C++ projects for learning
 6- calculator
 
 7- number-of-days
+
+8- digit-counter
+
+9- digit-reverser
+
+10- pin-validation
+
+11- factorial-calculator
