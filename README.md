@@ -25,3 +25,7 @@ C++ projects for learning
 10- pin-validation
 
 11- factorial-calculator
+
+12- multiplication-table
+
+13- rectangle-shape-drawer
