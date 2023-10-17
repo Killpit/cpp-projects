@@ -29,3 +29,5 @@ C++ projects for learning
 12- multiplication-table
 
 13- rectangle-shape-drawer
+
+14- triangle-drawer
