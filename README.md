@@ -31,3 +31,7 @@ C++ projects for learning
 13- rectangle-shape-drawer
 
 14- triangle-drawer
+
+15- prime-number-checker
+
+16- atm-app

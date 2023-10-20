@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/atatekeli/cpp-projects/triangle-drawer",
-      "program": "/Users/atatekeli/cpp-projects/triangle-drawer/build/Debug/outDebug"
+      "cwd": "/Users/atatekeli/cpp-projects/atm-app",
+      "program": "/Users/atatekeli/cpp-projects/atm-app/build/Debug/outDebug"
     }
   ]
 }
